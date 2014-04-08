@@ -1,0 +1,10 @@
+﻿<Application
+    x:Class="Guerrilla.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Guerrilla">
+    <Application.Resources>
+        <SolidColorBrush x:Key="LightGrey" Color="#FFF0EBEB"/>
+    </Application.Resources>
+
+</Application>
